@@ -8,5 +8,6 @@ namespace PIS_prva_vjezba
 {
     internal class Class1
     {
+        int yeah;
     }
 }
